@@ -478,6 +478,8 @@ nav ul li a {
 }
 
 .journal-block .journal-info img {
+  width: 300px;
+  height: 300px;
   max-width: 100%;
 }
 
