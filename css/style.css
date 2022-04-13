@@ -3,7 +3,7 @@
 
 body {
   background: #ffffff;
-  color: #292929;
+  color: #898989;
   font-family: BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;;
   font-weight: 300;
   line-height: 160%;
@@ -78,7 +78,7 @@ p {
   padding: 0;
   font-size: 16px;
   
-  color: #999999;
+  color: #292929;
   line-height: 28px;
 }
 
